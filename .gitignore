@@ -1,0 +1,7 @@
+bin/
+obj/
+*.user
+.vs/
+
+# Jump scare media (key 5) is local only; see README for the expected file names.
+assets/
